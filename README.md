@@ -1,2 +1,2 @@
-# BaekjoonHub_LMA
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# CodingTest_Java 
+This is a auto push repository for Baekjoon Online Judge and Programmers.
